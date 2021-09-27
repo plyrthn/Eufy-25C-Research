@@ -3,4 +3,6 @@ I removed the conformal coating on the SOC which revealed it was a [gigadevice G
 
 The nand IS readable!
 
+I bricked it :D
+
 ![SOC Shot](/images/SOCShot.JPG)
